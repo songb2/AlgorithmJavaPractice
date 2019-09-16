@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MinHeap",
+            "request": "launch",
+            "mainClass": "app.MinHeap",
+            "projectName": "practice"
+        }
+    ]
+}
